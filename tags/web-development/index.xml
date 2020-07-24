@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development on Varun_Dev</title>
+    <link>https://blue-marker.github.io/Varun_Vinod_Salian/tags/web-development/</link>
+    <description>Recent content in Web Development on Varun_Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://blue-marker.github.io/Varun_Vinod_Salian/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Movie Plix </title>
+      <link>https://blue-marker.github.io/Varun_Vinod_Salian/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blue-marker.github.io/Varun_Vinod_Salian/post/project-2/</guid>
+      <description>Project 2: Social Website For Movies   This is social site website for movie buffs where a user can create his/her account, post their blogs, comment on others posts , give a review for the movies as well give a rating for them.
+The website has three section:
+  Movie Page   Section one has all the movies where in there&amp;rsquo;s movies descritpion, a trailer, movie&amp;rsquo;s default imdb rating and user&amp;rsquo;s rating if any.</description>
+    </item>
+    
+  </channel>
+</rss>

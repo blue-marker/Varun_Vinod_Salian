@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LSTM on Varun_Dev</title>
+    <link>https://blue-marker.github.io/Varun_Vinod_Salian/tags/lstm/</link>
+    <description>Recent content in LSTM on Varun_Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://blue-marker.github.io/Varun_Vinod_Salian/tags/lstm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Image Captioner</title>
+      <link>https://blue-marker.github.io/Varun_Vinod_Salian/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blue-marker.github.io/Varun_Vinod_Salian/post/project-4/</guid>
+      <description>Image Captioner   Image Captioner takes in any image and produces a caption based on whats in the image. This is build using Deep Learning and the application is build using Flask framework. The model is a combination of CNN and LSTM. The model is trained on both image and it&amp;rsquo;s respective caption. The CNN model ( transfer learning is used here specifically vgg16 ) helps to extract the image patterns into some vector and the words in the caption is converted into index no and then it is feed into a word embedding.</description>
+    </item>
+    
+  </channel>
+</rss>

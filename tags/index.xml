@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Varun_Dev</title>
+    <link>https://blue-marker.github.io/Varun_Vinod_Salian/tags/</link>
+    <description>Recent content in Tags on Varun_Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://blue-marker.github.io/Varun_Vinod_Salian/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CNN</title>
+      <link>https://blue-marker.github.io/Varun_Vinod_Salian/tags/cnn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blue-marker.github.io/Varun_Vinod_Salian/tags/cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>https://blue-marker.github.io/Varun_Vinod_Salian/tags/data-visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blue-marker.github.io/Varun_Vinod_Salian/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://blue-marker.github.io/Varun_Vinod_Salian/tags/deep-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blue-marker.github.io/Varun_Vinod_Salian/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>django</title>
+      <link>https://blue-marker.github.io/Varun_Vinod_Salian/tags/django/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blue-marker.github.io/Varun_Vinod_Salian/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GANs</title>
+      <link>https://blue-marker.github.io/Varun_Vinod_Salian/tags/gans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blue-marker.github.io/Varun_Vinod_Salian/tags/gans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative Models</title>
+      <link>https://blue-marker.github.io/Varun_Vinod_Salian/tags/generative-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blue-marker.github.io/Varun_Vinod_Salian/tags/generative-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LSTM</title>
+      <link>https://blue-marker.github.io/Varun_Vinod_Salian/tags/lstm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blue-marker.github.io/Varun_Vinod_Salian/tags/lstm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://blue-marker.github.io/Varun_Vinod_Salian/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blue-marker.github.io/Varun_Vinod_Salian/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pytorch</title>
+      <link>https://blue-marker.github.io/Varun_Vinod_Salian/tags/pytorch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blue-marker.github.io/Varun_Vinod_Salian/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>https://blue-marker.github.io/Varun_Vinod_Salian/tags/web-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blue-marker.github.io/Varun_Vinod_Salian/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Scrapping</title>
+      <link>https://blue-marker.github.io/Varun_Vinod_Salian/tags/web-scrapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blue-marker.github.io/Varun_Vinod_Salian/tags/web-scrapping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
